@@ -88,7 +88,7 @@ class _RatingBottomSheetState extends State<RatingBottomSheet> {
             child: ElevatedButton(
               onPressed: () {},
               style: ElevatedButton.styleFrom(
-                primary: Color(0xffF5C518),
+                backgroundColor: Color(0xffF5C518),
                 textStyle: TextStyle(
                   color: Colors.white,
                   fontSize: 16.sp,

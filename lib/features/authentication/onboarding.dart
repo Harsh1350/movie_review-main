@@ -70,7 +70,7 @@ class OnboardingScreen extends StatelessWidget {
                         
                       },
                       style: ElevatedButton.styleFrom(
-                        primary: Color(0XFFf5c518),
+                        backgroundColor: Color(0XFFf5c518),
                       ),
                       child: const Text(
                         'Get Started',
